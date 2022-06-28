@@ -1,9 +1,11 @@
 ### Hi there 👋
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I like to bake cakes :)
 [![GitHub abrilurena](https://img.shields.io/github/followers/vermakhushboo?label=follow&style=social)](https://github.com/abrilurena)
 [![Linkedin: Abril](https://img.shields.io/badge/-Abril%20Urena-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abrilurena/)](https://www.linkedin.com/in/abrilurena/)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=abrildur.id&left_color=green&right_color=blue)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=abrilurena.id&left_color=green&right_color=blue)
+
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I like to bake cakes :)
+
 
 
 [![Abril's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abrilurena&hide=issues&count_private=true&show_icons=true&theme=calm)](https://github.com/abrilurena/github-readme-stats)
