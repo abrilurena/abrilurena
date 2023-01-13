@@ -7,8 +7,12 @@
 - ⚡ Fun fact: I like to bake cakes :)
 
 
+<!--
+[![Abril's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abrilurena&hide=issues&count_private=true&show_icons=true&theme=calm)](https://github.com/abrilurena/github-readme-stats)-->
 
-[![Abril's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abrilurena&hide=issues&count_private=true&show_icons=true&theme=calm)](https://github.com/abrilurena/github-readme-stats)
+[![Abril’s github stats](https://github-readme-stats.vercel.app/api?username=abrilurena)](https://github.com/abrilurena)
+
+[![Abril's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abrilurena&layout=compact)](https://github.com/abrilurena)
 
 <!--
 **abrilurena/abrilurena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
