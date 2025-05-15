@@ -2,8 +2,8 @@
 
 [![GitHub abrilurena](https://img.shields.io/github/followers/abrilurena?label=follow&style=social)](https://github.com/abrilurena)
 [![Linkedin: Abril](https://img.shields.io/badge/-Abril%20Urena-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abrilurena/)](https://www.linkedin.com/in/abrilurena/) 
-
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExczd2ZHhxcnJ0ZTJrMms4czV2NHViYjBxemh5NzQ2OGU3YWxtYTk3ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fib2gHdY5NCJMbX9qz/giphy.gif" alt="Pixel Art" align="right" width="200">
+<!--
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExczd2ZHhxcnJ0ZTJrMms4czV2NHViYjBxemh5NzQ2OGU3YWxtYTk3ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fib2gHdY5NCJMbX9qz/giphy.gif" alt="Pixel Art" align="right" width="200"> -->
 
 ### Technologies and tools:
 
