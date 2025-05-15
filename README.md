@@ -5,7 +5,7 @@
 <!--
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExczd2ZHhxcnJ0ZTJrMms4czV2NHViYjBxemh5NzQ2OGU3YWxtYTk3ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fib2gHdY5NCJMbX9qz/giphy.gif" alt="Pixel Art" align="right" width="200"> -->
 
-### Technologies and tools:
+### Programming languages and tools:
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Abril-Js" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
