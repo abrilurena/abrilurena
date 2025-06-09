@@ -8,10 +8,10 @@
 I'm a Python Cloud Advocate at Microsoft, based in Mexico. I love contributing to projects that help people and are related to UX/UI design, accessibility, AI, and more. Here are my [latest blog posts on Microsoft Tech Community](https://techcommunity.microsoft.com/users/abrilurena/1387388).
 
 Discover the impactful livestream series I've designed and led to empower the LATAM community:
--[Mes de Datos](https://www.youtube.com/playlist?list=PLmsFUfdnGr3ywn8BfUQJpkA3Nt2krVaL5)
--[Certificate con GitHub](https://www.youtube.com/playlist?list=PLmsFUfdnGr3yX02zoRsKOvoz3MnCXqoIi)
--[Get Certified with GitHub (english livestream series)](https://www.youtube.com/playlist?list=PLmsFUfdnGr3y_9-Zenha00eQEY8koDWUl)
--[Festival Web](https://aka.ms/festivalweb)
+- [Mes de Datos](https://www.youtube.com/playlist?list=PLmsFUfdnGr3ywn8BfUQJpkA3Nt2krVaL5)
+- [Certificate con GitHub](https://www.youtube.com/playlist?list=PLmsFUfdnGr3yX02zoRsKOvoz3MnCXqoIi)
+- [Get Certified with GitHub (english livestream series)](https://www.youtube.com/playlist?list=PLmsFUfdnGr3y_9-Zenha00eQEY8koDWUl)
+- [Festival Web](https://aka.ms/festivalweb)
 
 Explore the livestream series I've co-created for various initiatives, reaching both LATAM and global audiences:
 - []()
