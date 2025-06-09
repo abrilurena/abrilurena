@@ -1,7 +1,27 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6793F7&width=400&lines=Hi%2C+there!+I'm+Abril+Urena.;Welcome+to+my+GitHub+profile!+)
+<!--![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6793F7&width=400&lines=Hi%2C+there!+I'm+Abril+Urena.;Welcome+to+my+GitHub+profile!+)-->
 
 [![GitHub abrilurena](https://img.shields.io/github/followers/abrilurena?label=follow&style=social)](https://github.com/abrilurena)
 [![Linkedin: Abril](https://img.shields.io/badge/-Abril%20Urena-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abrilurena/)](https://www.linkedin.com/in/abrilurena/) 
+
+<h1>Hi! I'm Abril Urena (she/her)</h1>
+
+I'm a Python Cloud Advocate at Microsoft, based in Mexico. I love contributing to projects that help people and are related to UX/UI design, accessibility, AI, and more. Here are my [latest posts on Microsoft Tech Community](https://techcommunity.microsoft.com/users/abrilurena/1387388).
+
+I'm a [Microsoft Learn](https://learn.microsoft.com/) author. Explore the learning modules I've coauthored:
+- [Using GitHub Copilot with Python](https://learn.microsoft.com/training/modules/introduction-copilot-python/)
+- [Using GitHub Copilot with JavaScript](https://learn.microsoft.com/training/modules/introduction-copilot-javascript/)
+- [Using advanced GitHub Copilot features](https://learn.microsoft.com/training/modules/advanced-github-copilot/)
+- []()
+- []()
+
+Explore some of the learning paths I've created and contributed to:
+- [Mes de Datos](https://learn.microsoft.com/es-mx/collections/47dnayekm1mjqq)
+- [GitHub Challenge]()
+- [Microsoft Build 2024 Skills | GitHub Challenge]()
+- [Festival Web](https://learn.microsoft.com/es-mx/collections/zk1zc18qo4e0ey)
+- [GitHub Universe Skills Challenge 2023]()
+- [VS Code Day Skills Challenge 2024](https://learn.microsoft.com/es-mx/collections/8p03hpd570xjyg)
+
 <!--
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExczd2ZHhxcnJ0ZTJrMms4czV2NHViYjBxemh5NzQ2OGU3YWxtYTk3ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fib2gHdY5NCJMbX9qz/giphy.gif" alt="Pixel Art" align="right" width="200"> -->
 <!--
