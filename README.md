@@ -11,16 +11,16 @@ I'm a [Microsoft Learn](https://learn.microsoft.com/) author. Explore the learni
 - [Using GitHub Copilot with Python](https://learn.microsoft.com/training/modules/introduction-copilot-python/)
 - [Using GitHub Copilot with JavaScript](https://learn.microsoft.com/training/modules/introduction-copilot-javascript/)
 - [Using advanced GitHub Copilot features](https://learn.microsoft.com/training/modules/advanced-github-copilot/)
-- []()
-- []()
+- [Challenge project - Microsoft Copilot for Prototyping and MVP Creation](https://learn.microsoft.com/en-us/training/modules/challenge-project-generative-ai-for-prototyping-and-mvp-creation)
 
-Explore some of the learning paths I've created and contributed to:
+Explore some of the learning paths I've created and others that I've contributed to:
 - [Mes de Datos](https://learn.microsoft.com/es-mx/collections/47dnayekm1mjqq)
-- [GitHub Challenge]()
-- [Microsoft Build 2024 Skills | GitHub Challenge]()
 - [Festival Web](https://learn.microsoft.com/es-mx/collections/zk1zc18qo4e0ey)
-- [GitHub Universe Skills Challenge 2023]()
 - [VS Code Day Skills Challenge 2024](https://learn.microsoft.com/es-mx/collections/8p03hpd570xjyg)
+- [GitHub Universe Skills Challenge 2023](https://techcommunity.microsoft.com/t5/educator-developer-blog/reg%C3%ADstrate-al-github-universe-cloud-skills-challenge/ba-p/3951236?WT.mc_id=academic-109612-abrilu)
+- [Microsoft Build 2024 Skills Challenge | GitHub Challenge](https://learn.microsoft.com/es-mx/training/challenges?id=4ab7a1b6-fb12-47a2-88ad-2a40c408b253&WT.mc_id=cloudskillschallenge_4ab7a1b6-fb12-47a2-88ad-2a40c408b253)
+- [Tips and Tricks to Bring Your AI Idea to Life](https://learn.microsoft.com/es-mx/collections/678ka8pwqn322j)
+
 
 <!--
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExczd2ZHhxcnJ0ZTJrMms4czV2NHViYjBxemh5NzQ2OGU3YWxtYTk3ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fib2gHdY5NCJMbX9qz/giphy.gif" alt="Pixel Art" align="right" width="200"> -->
