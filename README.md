@@ -14,10 +14,7 @@ Discover the impactful livestream series I've designed and led to empower the LA
 - [Festival Web](https://aka.ms/festivalweb)
 
 Explore the livestream series I've co-created for various initiatives, reaching both LATAM and global audiences:
-- []()
-- []()
-- []()
-- []()
+- [Sesion Informativa MLSA LATAM](https://www.youtube.com/watch?v=VZG6CJrZskE)
 
 - 
 I'm a [Microsoft Learn](https://learn.microsoft.com/) author. Explore the learning modules I've coauthored:
