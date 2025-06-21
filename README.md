@@ -32,7 +32,15 @@ I'm a Python Cloud Advocate at Microsoft, based in Mexico. I love contributing t
 - [Microsoft Build 2024 Skills Challenge | GitHub Challenge](https://learn.microsoft.com/es-mx/training/challenges?id=4ab7a1b6-fb12-47a2-88ad-2a40c408b253&WT.mc_id=cloudskillschallenge_4ab7a1b6-fb12-47a2-88ad-2a40c408b253)
 - [Tips and Tricks to Bring Your AI Idea to Life](https://learn.microsoft.com/es-mx/collections/678ka8pwqn322j)
 
-<!--
+💻 Open Source Contributions. I've had the chance to contribute to several open source projects, including tools I love and use. Here are some highlights:
+- [Workshop library](https://github.com/microsoft/workshop-library)
+- [Generative AI for beginners](https://github.com/microsoft/generative-ai-for-beginners)
+- [Web Development for Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
+- [Build your own portfolio using GitHub Codespaces and JavaScript](https://github.com/github-education-resources/codespaces-project-template-js)
+- [Python HTTP API for use with Codespaces](https://github.com/github-education-resources/codespaces-project-template-py)
+- [Teach Python using GitHub Codespaces](https://github.com/github-education-resources/codespaces-teaching-template-py)
+- [Teach JavaScript using GitHub Codespaces](https://github.com/education/codespaces-teaching-template-js)
+<!--https://github.com/microsoft/travel-weather
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExczd2ZHhxcnJ0ZTJrMms4czV2NHViYjBxemh5NzQ2OGU3YWxtYTk3ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fib2gHdY5NCJMbX9qz/giphy.gif" alt="Pixel Art" align="right" width="200"> -->
 <!--
 ### Programming languages and tools:
