@@ -7,29 +7,31 @@
 
 I'm a Python Cloud Advocate at Microsoft, based in Mexico. I love contributing to projects that help people and are related to UX/UI design, accessibility, AI, and more. Here are my [latest blog posts on Microsoft Tech Community](https://techcommunity.microsoft.com/users/abrilurena/1387388).
 
-Discover the impactful livestream series I've designed and led to empower the LATAM community:
+💬 Former Moderator at [VS Code Discussions](https://github.com/microsoft/vscode-discussions) by Microsoft · OSS Community
+- helping organize topics, guide users, and maintain a positive and productive community.
+
+🌟 Discover the impactful livestream series I've designed and led to empower the LATAM community:
 - [Mes de Datos](https://www.youtube.com/playlist?list=PLmsFUfdnGr3ywn8BfUQJpkA3Nt2krVaL5)
 - [Certificate con GitHub](https://www.youtube.com/playlist?list=PLmsFUfdnGr3yX02zoRsKOvoz3MnCXqoIi)
 - [Get Certified with GitHub (english livestream series)](https://www.youtube.com/playlist?list=PLmsFUfdnGr3y_9-Zenha00eQEY8koDWUl)
 - [Festival Web](https://aka.ms/festivalweb)
 
-Explore the livestream series I've co-created for various initiatives, reaching both LATAM and global audiences:
+🌎🎥 Explore the livestream series I've co-created for various initiatives, reaching both LATAM and global audiences:
 - [Sesion Informativa MLSA LATAM](https://www.youtube.com/watch?v=VZG6CJrZskE)
 
-I'm a [Microsoft Learn](https://learn.microsoft.com/) author. Explore the learning modules I've coauthored:
+💡 I'm a [Microsoft Learn](https://learn.microsoft.com/) author. Explore the learning modules I've coauthored:
 - [Using GitHub Copilot with Python](https://learn.microsoft.com/training/modules/introduction-copilot-python/)
 - [Using GitHub Copilot with JavaScript](https://learn.microsoft.com/training/modules/introduction-copilot-javascript/)
 - [Using advanced GitHub Copilot features](https://learn.microsoft.com/training/modules/advanced-github-copilot/)
 - [Challenge project - Microsoft Copilot for Prototyping and MVP Creation](https://learn.microsoft.com/en-us/training/modules/challenge-project-generative-ai-for-prototyping-and-mvp-creation)
 
-Explore some of the learning paths I've created and others that I've contributed to:
+🧠 Explore some of the learning paths I've created and others that I've contributed to:
 - [Mes de Datos](https://learn.microsoft.com/es-mx/collections/47dnayekm1mjqq)
 - [Festival Web](https://learn.microsoft.com/es-mx/collections/zk1zc18qo4e0ey)
 - [VS Code Day Skills Challenge 2024](https://learn.microsoft.com/es-mx/collections/8p03hpd570xjyg)
 - [GitHub Universe Skills Challenge 2023](https://techcommunity.microsoft.com/t5/educator-developer-blog/reg%C3%ADstrate-al-github-universe-cloud-skills-challenge/ba-p/3951236?WT.mc_id=academic-109612-abrilu)
 - [Microsoft Build 2024 Skills Challenge | GitHub Challenge](https://learn.microsoft.com/es-mx/training/challenges?id=4ab7a1b6-fb12-47a2-88ad-2a40c408b253&WT.mc_id=cloudskillschallenge_4ab7a1b6-fb12-47a2-88ad-2a40c408b253)
 - [Tips and Tricks to Bring Your AI Idea to Life](https://learn.microsoft.com/es-mx/collections/678ka8pwqn322j)
-
 
 <!--
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExczd2ZHhxcnJ0ZTJrMms4czV2NHViYjBxemh5NzQ2OGU3YWxtYTk3ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fib2gHdY5NCJMbX9qz/giphy.gif" alt="Pixel Art" align="right" width="200"> -->
@@ -55,7 +57,7 @@ Explore some of the learning paths I've created and others that I've contributed
   </a>
 </div>
 -->
-Additional facts:
+🦄 Additional facts:
 
 - 😄 Pronouns: she/her
 - I speak English, Spanish, and a bit of German.
