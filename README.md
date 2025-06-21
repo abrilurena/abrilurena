@@ -7,8 +7,7 @@
 
 I'm a Python Cloud Advocate at Microsoft, based in Mexico. I love contributing to projects that help people and are related to UX/UI design, accessibility, AI, and more. Here are my [latest blog posts on Microsoft Tech Community](https://techcommunity.microsoft.com/users/abrilurena/1387388).
 
-💬 Former Moderator at [VS Code Discussions](https://github.com/microsoft/vscode-discussions) by Microsoft · OSS Community
-- helping organize topics, guide users, and maintain a positive and productive community.
+💬 Moderator at [VS Code Discussions](https://github.com/microsoft/vscode-discussions) by Microsoft · OSS Community. I helped to organize topics, guide users, and maintain a positive and productive community.
 
 🌟 Discover the impactful livestream series I've designed and led to empower the LATAM community:
 - [Mes de Datos](https://www.youtube.com/playlist?list=PLmsFUfdnGr3ywn8BfUQJpkA3Nt2krVaL5)
