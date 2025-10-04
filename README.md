@@ -5,7 +5,7 @@
 
 <h1>Hi! I'm Abril Urena (she/her)</h1>
 
-I'm a Python Cloud Advocate at Microsoft, based in Mexico. I love contributing to projects that help people and are related to UX/UI design, accessibility, AI, and more. Here are my [latest blog posts on Microsoft Tech Community](https://techcommunity.microsoft.com/users/abrilurena/1387388).
+I'm a Front-end Developer, based in Mexico. I love contributing to projects that help people and are related to UX/UI design, accessibility, AI, and more. Here are my [latest blog posts on Microsoft Tech Community](https://techcommunity.microsoft.com/users/abrilurena/1387388).
 
 💬 Moderator at [VS Code Discussions](https://github.com/microsoft/vscode-discussions) by Microsoft · OSS Community. I helped to organize topics, guide users, and maintain a positive and productive community.
 
